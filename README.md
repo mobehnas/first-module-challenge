@@ -9,5 +9,5 @@ put an appropiate tittle
 giving the html a sequential order 
 updating the IMG element with alt attributs
 make the CSS more efficent by consolidating CSS properties and selectors
-
+![](image.png)
 
